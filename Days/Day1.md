@@ -1,4 +1,4 @@
-#### DAY 1 Learning Resource:
+#### Learning Resource:
 
   * [CryptoZombies Lesson 1](https://cryptozombies.io/en/lesson/1/)
 
