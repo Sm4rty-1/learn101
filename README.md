@@ -7,4 +7,4 @@ Day | Topic
 --- | ---
 **1** | [<ul><li>CryptoZombies Lesson 1</li><li> HTB Machine- Networked </li><li> Blog - 2FA security Bypasses</li></ul>](/Days/Day1.md)
 **2** | [<ul><li>CryptoZombies Lesson 2</li><li> HTB Machine- Optimum </li><li> HTB Challenge- Chase</li><li> Blog - Postmessage Vulnerabilities</li></ul>](/Days/Day2.md)
-
+**3** | [<ul><li>CryptoZombies Lesson 3(ch.1-5)</li><li>HTB Machine- Backdoor </li><li> Going beyond the surface-Vuln that pays well</li>](/Days/Day3.md)
