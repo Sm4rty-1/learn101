@@ -11,3 +11,7 @@ Day | Topic
 **4** | [<ul><li>CryptoZombies Lesson 3(ch. 5-10)</li><li>HTB Machine- Legacy </li><li>Blog- WAF Bypass via Origin IP</li>](/Days/Day4.md)
 **5** | [<ul><li>CryptoZombies Lesson 3(ch. 10-14)</li><li>HTB Machine- Secret </li><li>Blog- How to PoC your Bug Leads</li>](/Days/Day5.md)
 **6** | [<ul><li>CryptoZombies Lesson 4(ch. 1-7)</li><li>HTB Challenge- Gunship </li><li>QRCDR ZeroDay Path Traversal Vulnerability</li>](/Days/Day6.md)
+**7** | [<ul><li>CryptoZombies Lesson 4(ch. 7-13)</li><li>HTB Machine- CAP </li><li>Instagram 2FA Bypass</li>](/Days/Day7.md)
+  
+  
+  
