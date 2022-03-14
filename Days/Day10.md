@@ -1,6 +1,6 @@
 #### Learning Resource:
 
-  * [CryptoZombies Lesson 6(ch.1-5)](https://cryptozombies.io/en/lesson/5/)
+  * [CryptoZombies Lesson 6(ch.1-5)](https://cryptozombies.io/en/lesson/6/)
 
   * [HTB Machine- RouterSpace](https://app.hackthebox.com/machines/444 )
   
