@@ -14,5 +14,6 @@ Day | Topic
 **7** | [<ul><li>CryptoZombies Lesson 4(ch. 7-13)</li><li>HTB Machine- CAP </li><li>Instagram 2FA Bypass</li>](/Days/Day7.md)
 **8** | [<ul><li>CryptoZombies Lesson 5(ch. 1-7)</li><li>Bypassing SSRF Protection to leak AWS Metadata</li>](/Days/Day8.md)
 **9** | [<ul><li>CryptoZombies Lesson 5(ch. 8-15)</li><li>SVG Based Stored-XSS</li>](/Days/Day9.md)
-  
+**10** | [<ul><li>CryptoZombies Lesson 6(ch. 1-5)</li><li>HTB Machine- RouterSpace </li><li>Mastering Ethereum Ch.1</li>](/Days/Day10.md)
+
   
