@@ -17,4 +17,4 @@ Day | Topic
 **10** | [<ul><li>CryptoZombies Lesson 6(ch. 1-5)</li><li>HTB Machine- RouterSpace </li><li>Mastering Ethereum Ch.1</li>](/Days/Day10.md)
 **11** | [<ul><li>CryptoZombies Lesson 6(ch. 6-11)</li><li>HTB Machine- Return </li><li>How to Find Vulnerability in Smart Contracts — Unexpected Ether</li>](/Days/Day11.md)
 **12** | [<ul><li>CryptoZombies ChainLink Path(ch.1-6)</li><li>Hacking with sqlmap</li>](/Days/Day12.md)
-  
+**13** | [<ul><li>CryptoZombies ChainLink Path(ch.6-12)</li><li>A Case Study on CVE 2021-22204 Exiftool RCE</li>](/Days/Day13.md)  
