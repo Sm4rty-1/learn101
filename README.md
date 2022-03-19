@@ -19,3 +19,7 @@ Day | Topic
 **12** | [<ul><li>CryptoZombies ChainLink Path(ch.1-6)</li><li>Blog- Hacking with sqlmap</li>](/Days/Day12.md)
 **13** | [<ul><li>CryptoZombies ChainLink Path(ch.6-12)</li><li>Blog- A Case Study on CVE 2021-22204 Exiftool RCE</li>](/Days/Day13.md) 
 **14** | [<ul><li>CryptoZombies Lesson 10(ch.1-11)</li><li>Blog- Optimism Infinite Money Duplication Bugfix </li>](/Days/Day14.md)
+**15** | [<ul><li>Rest Day</li>](/Days/Day15.md)
+  
+  
+  
