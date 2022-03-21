@@ -21,5 +21,5 @@ Day | Topic
 **14** | [<ul><li>CryptoZombies Lesson 10(ch.1-11)</li><li>Blog- Optimism Infinite Money Duplication Bugfix </li>](/Days/Day14.md)
 **15** | [<ul><li>Rest Day</li>](/Days/Day15.md)
 **16** | [<ul><li>CryptoZombies Lesson 11(ch.1-7)</li><li>HTB Machine- Meta</li><li>Blog: Parameter Pollution - Zero Day</li>](/Days/Day16.md)
-  
+**17** | [<ul><li>CryptoZombies Lesson 11(ch.8-15)</li><li>HTB Machine- Shibboleth</li><li>Blog: BlockChain Oracle</li>](/Days/Day17.md)
   
