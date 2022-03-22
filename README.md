@@ -22,4 +22,4 @@ Day | Topic
 **15** | [<ul><li>Rest Day</li>](/Days/Day15.md)
 **16** | [<ul><li>CryptoZombies Lesson 11(ch.1-7)</li><li>HTB Machine- Meta</li><li>Blog: Parameter Pollution - Zero Day</li>](/Days/Day16.md)
 **17** | [<ul><li>CryptoZombies Lesson 11(ch.8-15)</li><li>HTB Machine- Shibboleth</li><li>Blog: BlockChain Oracle</li>](/Days/Day17.md)
-  
+**18** | [<ul><li>Ethernaut CTF(Lvl. 0-1)</li><li>HTB Machine- Nunchucks</li><li>Blog: Sql Injection at Spotify</li>](/Days/Day18.md)  
