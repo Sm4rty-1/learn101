@@ -25,7 +25,7 @@ Day | Topic
 **18** | [<ul><li>Ethernaut CTF(Lvl. 0-1)</li><li>HTB Machine- Nunchucks</li><li>Blog: Sql Injection at Spotify</li>](/Days/Day18.md)  
 **19** | [<ul><li>Ethernaut CTF(Lvl. 2)</li><li>HTB Machine- Unicode</li><li>Blog: Polygon Double-Spend Bugfix Review </li>](/Days/Day19.md) 
 **20** | [<ul><li>Ethernaut CTF(Lvl. 3)</li><li>HTB Machine- BountyHunter</li><li>Blog: ERC20 Smart Contract Breakdown</li>](/Days/Day20.md) 
-  
+**20** | [<ul><li>Ethernaut CTF(Lvl. 4)</li><li>HTB Machine- Validation</li><li>Blog: How to get started Hacking Wordpress Plugins</li>](/Days/Day21.md) 
   
   
   
