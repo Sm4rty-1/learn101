@@ -27,6 +27,7 @@ Day | Topic
 **20** | [<ul><li>Ethernaut CTF(Lvl. 3)</li><li>HTB Machine- BountyHunter</li><li>Blog: ERC20 Smart Contract Breakdown</li>](/Days/Day20.md) 
 **21** | [<ul><li>Ethernaut CTF(Lvl. 4)</li><li>HTB Machine- Validation</li><li>Blog: How to get started Hacking Wordpress Plugins</li>](/Days/Day21.md) 
 **22** | [<ul><li>Ethernaut CTF(Lvl. 5,6)</li><li>HTB Machine- Timing</li><li>Blog: RocketPool and Lido Frontrunning Bug Fix Postmortem</li>](/Days/Day22.md) 
+**23** | [<ul><li>Ethernaut CTF(Lvl. 7)</li><li>Blog: IDOR leads to 2fa Bypass</li>](/Days/Day23.md) 
 
   
   
