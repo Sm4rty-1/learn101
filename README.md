@@ -28,7 +28,7 @@ Day | Topic
 **21** | [<ul><li>Ethernaut CTF(Lvl. 4)</li><li>HTB Machine- Validation</li><li>Blog: How to get started Hacking Wordpress Plugins</li>](/Days/Day21.md) 
 **22** | [<ul><li>Ethernaut CTF(Lvl. 5,6)</li><li>HTB Machine- Timing</li><li>Blog: RocketPool and Lido Frontrunning Bug Fix Postmortem</li>](/Days/Day22.md) 
 **23** | [<ul><li>Ethernaut CTF(Lvl. 7)</li><li>Blog: IDOR leads to 2fa Bypass</li>](/Days/Day23.md) 
-
+**24** | [<ul><li>Ethernaut CTF(Lvl. 8)</li><li>HTB Machine- GoodGames</li><li>Blog: Reconnaissance is the key to success !</li>](/Days/Day24.md) 
   
   
   
