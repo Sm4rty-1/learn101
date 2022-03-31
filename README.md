@@ -30,4 +30,7 @@ Day | Topic
 **23** | [<ul><li>Ethernaut CTF(Lvl. 7)</li><li>Blog: IDOR leads to 2fa Bypass</li>](/Days/Day23.md) 
 **24** | [<ul><li>Ethernaut CTF(Lvl. 8)</li><li>HTB Machine- GoodGames</li><li>Blog: Reconnaissance is the key to success !</li>](/Days/Day24.md) 
 **25** | [<ul><li>Ethernaut CTF(Lvl. 9)</li><li>Blog: Redacted Cartel Custom Approval Logic Bugfix Review</li>](/Days/Day25.md)  
-**26** | [<ul><li>Blog: Some critical vulnerabilities found with passive analysis</li>](/Days/Day26.md)  
+**26** | [<ul><li>Blog: Some critical vulnerabilities found with passive analysis</li>](/Days/Day26.md) 
+**27** | [<ul><li>Blog: Google Dork for instant bounties</li>](/Days/Day27.md) 
+  
+  
