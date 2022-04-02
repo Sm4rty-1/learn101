@@ -32,5 +32,5 @@ Day | Topic
 **25** | [<ul><li>Ethernaut CTF(Lvl. 9)</li><li>Blog: Redacted Cartel Custom Approval Logic Bugfix Review</li>](/Days/Day25.md)  
 **26** | [<ul><li>Blog: Some critical vulnerabilities found with passive analysis</li>](/Days/Day26.md) 
 **27** | [<ul><li>Blog: Google Dork for instant bounties</li>](/Days/Day27.md) 
-**27** | [<ul><li>Blog: Bypassing File Upload Restriction with Magic Numbers</li>](/Days/Day28.md)   
+**28** | [<ul><li>Blog: Bypassing File Upload Restriction with Magic Numbers</li>](/Days/Day28.md)   
   
