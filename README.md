@@ -35,3 +35,4 @@ Day | Topic
 **28** | [<ul><li>Blog: Bypassing File Upload Restriction with Magic Numbers</li>](/Days/Day28.md)   
 **29** | [<ul><li>Rest Day</li>](/Days/Day29.md)
 **30** | [<ul><li>Ethernaut CTF(Lvl. 10)</li><li>Blog: Hashing the Favicon.ico</li>](/Days/Day30.md) 
+**31** | [<ul><li>Ethernaut CTF(Lvl. 11)</li><li>HTB Machine- Ransom</li><li>Blog: Everything About Path Traversal Vulnerability</li>](/Days/Day31.md) 
