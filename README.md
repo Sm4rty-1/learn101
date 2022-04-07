@@ -38,3 +38,5 @@ Day | Topic
 **31** | [<ul><li>Ethernaut CTF(Lvl. 11)</li><li>HTB Machine- Ransom</li><li>Blog: Everything About Path Traversal Vulnerability</li>](/Days/Day31.md) 
 **32** | [<ul><li>Blog: Spring4Shell: Spring Remote Code Execution Vulnerability</li>](/Days/Day32.md)  
 **33** | [<ul><li>HTB Machine- Sniper</li><li>Blog: A brief overview of JWT and its exploits</li>](/Days/Day33.md) 
+**34** | [<ul><li>Blog: Design Flaw - A Tale of Permanent DOS</li>](/Days/Day34.md) 
+  
