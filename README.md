@@ -39,4 +39,4 @@ Day | Topic
 **32** | [<ul><li>Blog: Spring4Shell: Spring Remote Code Execution Vulnerability</li>](/Days/Day32.md)  
 **33** | [<ul><li>HTB Machine- Sniper</li><li>Blog: A brief overview of JWT and its exploits</li>](/Days/Day33.md) 
 **34** | [<ul><li>Blog: Design Flaw - A Tale of Permanent DOS</li>](/Days/Day34.md) 
-  
+**35** | [<ul><li>Book: Hacking APIs(Ch. 1)</li><li>Blog:API authentication bypass on National Informatics Centre</li>](/Days/Day35.md) 
