@@ -40,3 +40,4 @@ Day | Topic
 **33** | [<ul><li>HTB Machine- Sniper</li><li>Blog: A brief overview of JWT and its exploits</li>](/Days/Day33.md) 
 **34** | [<ul><li>Blog: Design Flaw - A Tale of Permanent DOS</li>](/Days/Day34.md) 
 **35** | [<ul><li>Book: Hacking APIs(Ch. 1)</li><li>Blog:API authentication bypass on National Informatics Centre</li>](/Days/Day35.md) 
+**36** | [<ul><li>Book: Hacking APIs(Ch. 2)</li><li>Blog:HTTP Request Smuggling on business.apple.com</li>](/Days/Day36.md) 
