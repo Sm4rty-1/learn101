@@ -42,3 +42,4 @@ Day | Topic
 **35** | [<ul><li>Book: Hacking APIs(Ch. 1)</li><li>Blog:API authentication bypass on National Informatics Centre</li>](/Days/Day35.md) 
 **36** | [<ul><li>Book: Hacking APIs(Ch. 2)</li><li>Blog:HTTP Request Smuggling on business.apple.com</li>](/Days/Day36.md) 
 **37** | [<ul><li>Book: Hacking APIs(Ch. 3)</li><li>Blog:Pyramid Of Pain</li>](/Days/Day37.md) 
+**38** | [<ul><li>Book: Hacking APIs(Ch. 4)</li><li>Blog:Exploiting XSS with Javascript/JPEG Polyglot</li>](/Days/Day38.md) 
