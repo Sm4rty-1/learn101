@@ -44,3 +44,4 @@ Day | Topic
 **37** | [<ul><li>Book: Hacking APIs(Ch. 3)</li><li>Blog:Pyramid Of Pain</li>](/Days/Day37.md) 
 **38** | [<ul><li>Book: Hacking APIs(Ch. 4)</li><li>Blog:Exploiting XSS with Javascript/JPEG Polyglot</li>](/Days/Day38.md) 
 **39** | [<ul><li>Book: Hacking APIs(Ch. 5)</li><li>Blog:Hacker Interview #1: elbee</li>](/Days/Day39.md) 
+**40** | [<ul><li>Book: Hacking APIs(Ch. 6 -Page no. 124-139)</li><li>Blog:A Long Story of XXE Vulnerability!!</li>](/Days/Day40.md) 
