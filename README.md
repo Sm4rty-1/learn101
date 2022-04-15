@@ -46,3 +46,5 @@ Day | Topic
 **39** | [<ul><li>Book: Hacking APIs(Ch. 5)</li><li>Blog:Hacker Interview #1: elbee</li>](/Days/Day39.md) 
 **40** | [<ul><li>Book: Hacking APIs(Ch. 6 -Page no. 124-139)</li><li>Blog:A Long Story of XXE Vulnerability!!</li>](/Days/Day40.md)
 **41** | [<ul><li>HTB Machine- TimeLapse</li><li>Blog: Cross-Contract Reentrancy Attack</li>](/Days/Day41.md) 
+**42** | [<ul><li>Book: Hacking APIs(Ch. 6 -Page no. 140-153)</li><li>Blog:Hacking GraphQL — Part 1</li>](/Days/Day42.md) 
+  
