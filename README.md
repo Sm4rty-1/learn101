@@ -48,3 +48,4 @@ Day | Topic
 **41** | [<ul><li>HTB Machine- TimeLapse</li><li>Blog: Cross-Contract Reentrancy Attack</li>](/Days/Day41.md) 
 **42** | [<ul><li>Book: Hacking APIs(Ch. 6 -Page no. 140-153)</li><li>Blog:Hacking GraphQL — Part 1</li>](/Days/Day42.md) 
 **43** | [<ul><li>Rest Day</li>](/Days/Day43.md)
+**44** | [<ul><li>Book: Hacking APIs(Ch. 7)</li><li>Blog:Hacking GraphQL — Part 2</li>](/Days/Day39.md) 
