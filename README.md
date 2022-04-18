@@ -49,3 +49,4 @@ Day | Topic
 **42** | [<ul><li>Book: Hacking APIs(Ch. 6 -Page no. 140-153)</li><li>Blog:Hacking GraphQL — Part 1</li>](/Days/Day42.md) 
 **43** | [<ul><li>Rest Day</li>](/Days/Day43.md)
 **44** | [<ul><li>Book: Hacking APIs(Ch. 7)</li><li>Blog:Hacking GraphQL — Part 2</li>](/Days/Day44.md) 
+**45** | [<ul><li>HTB Machine- Catch</li><li>Blog: Port Scanning and Service Discovery in 2022</li>](/Days/Day45.md) 
