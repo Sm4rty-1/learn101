@@ -51,3 +51,4 @@ Day | Topic
 **44** | [<ul><li>Book: Hacking APIs(Ch. 7)</li><li>Blog:Hacking GraphQL — Part 2</li>](/Days/Day44.md) 
 **45** | [<ul><li>HTB Machine- Catch</li><li>Blog: Port Scanning and Service Discovery in 2022</li>](/Days/Day45.md) 
 **46** | [<ul><li>Blog: Cloud SSRF Exploitation</li>](/Days/Day46.md) 
+**47** | [<ul><li>Book: Hacking APIs(Ch. 8)</li><li>Blog:ReDoS (Regular Expression Denial of Service)</li>](/Days/Day47.md) 
