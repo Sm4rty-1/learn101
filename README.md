@@ -54,3 +54,4 @@ Day | Topic
 **47** | [<ul><li>Book: Hacking APIs(Ch. 8)</li><li>Blog:ReDoS (Regular Expression Denial of Service)</li>](/Days/Day47.md) 
 **48** | [<ul><li>Blog: Hacking GraphQL — Part 3</li>](/Days/Day48.md) 
 **49** | [<ul><li>Blog: How we spoofed ENS domains for $15k</li>](/Days/Day49.md) 
+**50** | [<ul><li>Rest Day</li>](/Days/Day50.md)
