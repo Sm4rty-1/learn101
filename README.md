@@ -55,3 +55,4 @@ Day | Topic
 **48** | [<ul><li>Blog: Hacking GraphQL — Part 3</li>](/Days/Day48.md) 
 **49** | [<ul><li>Blog: How we spoofed ENS domains for $15k</li>](/Days/Day49.md) 
 **50** | [<ul><li>Rest Day</li>](/Days/Day50.md)
+**51** | [<ul><li>Book: Hacking APIs(Ch. 9)</li><li>THM Room: Protocols and Servers</li><li>Blog: WebSocket Pen Testing</li>](/Days/Day51.md) 
