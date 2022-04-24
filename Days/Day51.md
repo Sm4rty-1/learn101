@@ -1,6 +1,6 @@
 #### Learning Resource:
 
-  * [Book: Hacking APIs(Ch. 8)](https://nostarch.com/hacking-apis)
+  * [Book: Hacking APIs(Ch. 9)](https://nostarch.com/hacking-apis)
   
   * [THM Room: Protocols and Servers](https://tryhackme.com/room/protocolsandservers)
   
