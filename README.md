@@ -56,3 +56,4 @@ Day | Topic
 **49** | [<ul><li>Blog: How we spoofed ENS domains for $15k</li>](/Days/Day49.md) 
 **50** | [<ul><li>Rest Day</li>](/Days/Day50.md)
 **51** | [<ul><li>Book: Hacking APIs(Ch. 9)</li><li>THM Room: Protocols and Servers</li><li>Blog: WebSocket Pen Testing</li>](/Days/Day51.md) 
+**52** | [<ul><li>THM Room: Protocols and Servers 2</li><li>Blog: CNAME Cloud Subdomain Takeover</li>](/Days/Day52.md) 
