@@ -57,3 +57,5 @@ Day | Topic
 **50** | [<ul><li>Rest Day</li>](/Days/Day50.md)
 **51** | [<ul><li>Book: Hacking APIs(Ch. 9)</li><li>THM Room: Protocols and Servers</li><li>Blog: WebSocket Pen Testing</li>](/Days/Day51.md) 
 **52** | [<ul><li>THM Room: Protocols and Servers 2</li><li>Blog: CNAME Cloud Subdomain Takeover</li>](/Days/Day52.md) 
+**53** | [<ul><li>THM Room- Network Security</li><li>HTB Machine- NodeBlog</li><li>Blog: Blog: Super easy manipulation Led to full NFT control</li>](/Days/Day53.md) 
+
