@@ -58,4 +58,6 @@ Day | Topic
 **51** | [<ul><li>Book: Hacking APIs(Ch. 9)</li><li>THM Room: Protocols and Servers</li><li>Blog: WebSocket Pen Testing</li>](/Days/Day51.md) 
 **52** | [<ul><li>THM Room: Protocols and Servers 2</li><li>Blog: CNAME Cloud Subdomain Takeover</li>](/Days/Day52.md) 
 **53** | [<ul><li>THM Room- Network Security</li><li>HTB Machine- NodeBlog</li><li>Blog: Super easy manipulation Led to full NFT control</li>](/Days/Day53.md) 
-**54** | [<ul><li>THM Room- Web Application Security</li><li>Blog: Pentesting With FUFF</li>](/Days/Day54.md) 
+**54** | [<ul><li>THM Room- Web Application Security</li><li>Blog: Pentesting With FUFF</li>](/Days/Day54.md) .
+**55** | [<ul><li>THM Room- L2 MAC Flooding & ARP Spoofing</li><li>Blog: Bypassing WAF for $2222</li>](/Days/Day55.md) .
+
