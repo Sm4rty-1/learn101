@@ -61,3 +61,4 @@ Day | Topic
 **54** | [<ul><li>THM Room- Web Application Security</li><li>Blog: Pentesting With FUFF</li>](/Days/Day54.md)
 **55** | [<ul><li>THM Room- L2 MAC Flooding & ARP Spoofing</li><li>Blog: Bypassing WAF for $2222</li>](/Days/Day55.md)
 **56** | [<ul><li>THM Room- THM Room- Metasploit: Exploitation</li><li>Blog: Blockchain Security — Blockchain Roadmap</li>](/Days/Day56.md)
+**57** | [<ul><li>Rest Day</li>](/Days/Day57.md)
