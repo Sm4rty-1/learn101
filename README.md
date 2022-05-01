@@ -62,3 +62,4 @@ Day | Topic
 **55** | [<ul><li>THM Room- L2 MAC Flooding & ARP Spoofing</li><li>Blog: Bypassing WAF for $2222</li>](/Days/Day55.md)
 **56** | [<ul><li>THM Room- THM Room- Metasploit: Exploitation</li><li>Blog: Blockchain Security — Blockchain Roadmap</li>](/Days/Day56.md)
 **57** | [<ul><li>Rest Day</li>](/Days/Day57.md)
+**58** | [<ul><li>Blog: Aave V3’s Price Oracle Manipulation Vulnerability</li>](/Days/Day58.md) 
