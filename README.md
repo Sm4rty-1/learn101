@@ -63,3 +63,4 @@ Day | Topic
 **56** | [<ul><li>THM Room- THM Room- Metasploit: Exploitation</li><li>Blog: Blockchain Security — Blockchain Roadmap</li>](/Days/Day56.md)
 **57** | [<ul><li>Rest Day</li>](/Days/Day57.md)
 **58** | [<ul><li>Blog: Aave V3’s Price Oracle Manipulation Vulnerability</li>](/Days/Day58.md) 
+**59** | [<ul><li>Book: Hacking APIs(Ch. 10)</li><li>Blog: Mindset for hacking GraphQL Applications</li>](/Days/Day59.md) 
