@@ -64,3 +64,4 @@ Day | Topic
 **57** | [<ul><li>Rest Day</li>](/Days/Day57.md)
 **58** | [<ul><li>Blog: Aave V3’s Price Oracle Manipulation Vulnerability</li>](/Days/Day58.md) 
 **59** | [<ul><li>Book: Hacking APIs(Ch. 10)</li><li>Blog: Mindset for hacking GraphQL Applications</li>](/Days/Day59.md) 
+**60** | [<ul><li>Blog: The Complete Hands-On Hardhat Tutorial</li>](/Days/Day60.md) 
