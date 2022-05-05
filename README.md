@@ -65,4 +65,4 @@ Day | Topic
 **58** | [<ul><li>Blog: Aave V3’s Price Oracle Manipulation Vulnerability</li>](/Days/Day58.md) 
 **59** | [<ul><li>Book: Hacking APIs(Ch. 10)</li><li>Blog: Mindset for hacking GraphQL Applications</li>](/Days/Day59.md) 
 **60** | [<ul><li>Blog: The Complete Hands-On Hardhat Tutorial</li>](/Days/Day60.md) 
-**61** | [<ul><li>Blog: Solidity Smart Contract Security By Example #01: Integer Underflow</li>](/Days/Day61.md) 
+**62** | [<ul><li>Blog: How to become a smart contract auditor</li>](/Days/Day62.md) 
