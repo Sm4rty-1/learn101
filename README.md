@@ -67,3 +67,5 @@ Day | Topic
 **60** | [<ul><li>Blog: The Complete Hands-On Hardhat Tutorial</li>](/Days/Day60.md) 
 **61** | [<ul><li>Blog: Solidity Smart Contract Security By Example #01: Integer Underflow</li>](/Days/Day61.md) 
 **62** | [<ul><li>Blog: How to become a smart contract auditor</li>](/Days/Day62.md) 
+**63** | [<ul><li>THM Room- THM Room- Intro to Defensive Security</li><li>Blog: Uniswap Smart Contract Breakdown</li>](/Days/Day63.md)
+
