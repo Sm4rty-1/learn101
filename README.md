@@ -69,3 +69,5 @@ Day | Topic
 **62** | [<ul><li>Blog: How to become a smart contract auditor</li>](/Days/Day62.md) 
 **63** | [<ul><li>THM Room- THM Room- Intro to Defensive Security</li><li>Blog: Uniswap Smart Contract Breakdown</li>](/Days/Day63.md)
 **64** | [<ul><li>Blog: Access Control Vulnerabilities in Smart Contracts</li>](/Days/Day64.md) 
+**65** | [<ul><li>Rest Day</li>](/Days/Day65.md)
+**66** | [<ul><li>Blog: Solidity Hacking: Integer Overflow and Underflow</li>](/Days/Day66.md) 
