@@ -72,3 +72,4 @@ Day | Topic
 **65** | [<ul><li>Rest Day</li>](/Days/Day65.md)
 **66** | [<ul><li>Blog: Solidity Hacking: Integer Overflow and Underflow</li>](/Days/Day66.md) 
 **67** | [<ul><li>Blog: SVG SSRFs and saga of bypasses</li>](/Days/Day67.md) 
+**68** | [<ul><li>Nahamcon: The Bug Hunter’s Methodology: Application Analysis v1</li><li>Blog: Exploring Google Dorks</li>](/Days/Day68.md)
