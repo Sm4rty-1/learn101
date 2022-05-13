@@ -74,3 +74,4 @@ Day | Topic
 **67** | [<ul><li>Blog: SVG SSRFs and saga of bypasses</li>](/Days/Day67.md) 
 **68** | [<ul><li>Nahamcon: The Bug Hunter’s Methodology: Application Analysis v1</li><li>Blog: Exploring Google Dorks</li>](/Days/Day68.md)
 **69** | [<ul><li>Blog: How Does a Website Interact With Smart Contracts?</li>](/Days/Day69.md)
+**70** | [<ul><li>Blog: Insufficient Logging and Monitoring</li>](/Days/Day70.md)
