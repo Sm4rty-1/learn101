@@ -76,3 +76,4 @@ Day | Topic
 **69** | [<ul><li>Blog: How Does a Website Interact With Smart Contracts?</li>](/Days/Day69.md)
 **70** | [<ul><li>Blog: Insufficient Logging and Monitoring</li>](/Days/Day70.md)
 **71** | [<ul><li>Youtube: Indroduction to GraphQL Part 1- Hacking Simplified</li><li>Blog: Blockchain layers (L0, L1, L2, L3) in a Diagram</li>](/Days/Day71.md)
+**72** | [<ul><li>Youtube: Indroduction to GraphQL Part 2- Hacking Simplified</li><li>Blog: API Security Tutorial</li>](/Days/Day72.md)
