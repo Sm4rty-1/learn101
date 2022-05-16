@@ -77,3 +77,4 @@ Day | Topic
 **70** | [<ul><li>Blog: Insufficient Logging and Monitoring</li>](/Days/Day70.md)
 **71** | [<ul><li>Youtube: Indroduction to GraphQL Part 1- Hacking Simplified</li><li>Blog: Blockchain layers (L0, L1, L2, L3) in a Diagram</li>](/Days/Day71.md)
 **72** | [<ul><li>Youtube: Indroduction to GraphQL Part 2- Hacking Simplified</li><li>Blog: API Security Tutorial</li>](/Days/Day72.md)
+**73** | [<ul><li>Youtube: Indroduction to GraphQL Part 3- Hacking Simplified</li><li>Blog: Phantom Functions and the Billion-Dollar No-op</li>](/Days/Day73.md)
