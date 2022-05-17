@@ -78,3 +78,4 @@ Day | Topic
 **71** | [<ul><li>Youtube: Indroduction to GraphQL Part 1- Hacking Simplified</li><li>Blog: Blockchain layers (L0, L1, L2, L3) in a Diagram</li>](/Days/Day71.md)
 **72** | [<ul><li>Youtube: Indroduction to GraphQL Part 2- Hacking Simplified</li><li>Blog: API Security Tutorial</li>](/Days/Day72.md)
 **73** | [<ul><li>Youtube: Indroduction to GraphQL Part 3- Hacking Simplified</li><li>Blog: Phantom Functions and the Billion-Dollar No-op</li>](/Days/Day73.md)
+**74** | [<ul><li>Youtube: Hacking UPI with UPI-Recon-CLI</li><li>Blog: Smart Contract Security 101</li>](/Days/Day74.md)
