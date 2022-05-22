@@ -81,3 +81,5 @@ Day | Topic
 **74** | [<ul><li>Youtube: Hacking UPI with UPI-Recon-CLI</li><li>Blog: Smart Contract Security 101</li>](/Days/Day74.md)
 **75** | [<ul><li>Youtube: The Dark Forest EP0: $1B Multichain Vulnerability</li><li>Blog: Bypassing WAF to Weaponize a Stored XSS</li>](/Days/Day75.md)
 **76** | [<ul><li>Rest Day</li>](/Days/Day76.md)
+**77** | [<ul><li>Rest Day</li>](/Days/Day77.md)
+**78** | [<ul><li>Secureum Blog: Ethereum 101</li>](/Days/Day78.md)
