@@ -83,3 +83,4 @@ Day | Topic
 **76** | [<ul><li>Rest Day</li>](/Days/Day76.md)
 **77** | [<ul><li>Rest Day</li>](/Days/Day77.md)
 **78** | [<ul><li>Secureum Blog: Ethereum 101</li>](/Days/Day78.md)
+**79** | [<ul><li>Secureum Blog: Solidity 101</li>](/Days/Day79.md)
