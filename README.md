@@ -85,3 +85,4 @@ Day | Topic
 **78** | [<ul><li>Secureum Blog: Ethereum 101</li>](/Days/Day78.md)
 **79** | [<ul><li>Secureum Blog: Solidity 101</li>](/Days/Day79.md)
 **80** | [<ul><li>Secureum Blog: Solidity 201</li>](/Days/Day80.md)
+**81** | [<ul><li>Blog: Hacking Web3: Introduction and How to Start</li>](/Days/Day81.md)
