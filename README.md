@@ -87,4 +87,4 @@ Day | Topic
 **80** | [<ul><li>Secureum Blog: Solidity 201</li>](/Days/Day80.md)
 **81** | [<ul><li>Blog: Hacking Web3: Introduction and How to Start</li>](/Days/Day81.md)
 **82** | [<ul><li>Secureum Blog: Security Pitfalls & Best Practices 101(1-50)</li>](/Days/Day82.md)
-**83** | [<ul><li>Secureum Blog: Security Pitfalls & Best Practices 101(50-101)</li>](/Days/Day83.md)
+**83** | [<ul><li>Secureum Blog: Security Pitfalls & Best Practices 101(51-101)</li>](/Days/Day83.md)
