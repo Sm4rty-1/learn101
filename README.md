@@ -89,3 +89,5 @@ Day | Topic
 **82** | [<ul><li>Secureum Blog: Security Pitfalls & Best Practices 101(1-50)</li>](/Days/Day82.md)
 **83** | [<ul><li>Secureum Blog: Security Pitfalls & Best Practices 101(51-101)</li>](/Days/Day83.md)
 **84** | [<ul><li>Blog: About NFT Liquidity</li><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(0-1hr)</li>](/Days/Day84.md)
+**85** | [<ul><li>Blog: xToken Double Initialize Bugfix Review</li><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(1-2hr)</li>](/Days/Day85.md)
+**86** | [<ul><li>Blog: Risky UUPS Pattern</li><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(2-3hr)</li>](/Days/Day86.md)
