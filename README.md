@@ -91,3 +91,5 @@ Day | Topic
 **84** | [<ul><li>Blog: About NFT Liquidity</li><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(0-1hr)</li>](/Days/Day84.md)
 **85** | [<ul><li>Blog: xToken Double Initialize Bugfix Review</li><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(1-2hr)</li>](/Days/Day85.md)
 **86** | [<ul><li>Blog: Risky UUPS Pattern</li><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(2-3hr)</li>](/Days/Day86.md)
+  **87** | [<ul><li>HTML Injection On Trio App</li><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(3-3:30hr)</li>](/Days/Day87.md)
+**88** | [<ul><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(3:30-4hr)</li>](/Days/Day88.md)
