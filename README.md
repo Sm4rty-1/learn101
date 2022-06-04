@@ -93,3 +93,6 @@ Day | Topic
 **86** | [<ul><li>Blog: Risky UUPS Pattern</li><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(2-3hr)</li>](/Days/Day86.md)
   **87** | [<ul><li>HTML Injection On Trio App</li><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(3-3:30hr)</li>](/Days/Day87.md)
 **88** | [<ul><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(3:30-4hr)</li>](/Days/Day88.md)
+**89** | [<ul><li>How I found a GoldMine but got No Gold</li><li>Youtube: Blockchain, Solidity, and Full Stack Web3 Development with JavaScript(4 - 4:30hr)</li>](/Days/Day89.md)
+**90** | [<ul><li>Rest Day</li>](/Days/Day90.md)
+ 
